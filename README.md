@@ -47,7 +47,7 @@ Step 2: Install conda or miniconda if you don't have it already
 
 https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 
-... you should now be in your `base` environment
+... confirm that you are in your `base` environment
 
 Step 3: Pick a configuration file 
 
