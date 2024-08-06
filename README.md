@@ -83,7 +83,7 @@ Step 8: Pip install repo
 
 As explained above, NGMIX is a package used in the `metacalibrarion` module, its github linked here: https://github.com/esheldon/ngmix. We specifically require the use of version 1.3.9 (hence the environment name, `sbmcal_139`). However, installing this version of ngmix requires python 3.6 or 3.7, and the above environment uses python 3.12. 
 
-It is therefore not possible to simply conda forge this package into your environment. The following steps explain how to install this package instead.
+It is therefore not possible to simply conda forge this package into your environment. Instead, you can do the following to manually install it.
 
 Step 1: `curl -OL https://github.com/esheldon/ngmix/archive/refs/tags/v1.3.9.tar.gz`
 
